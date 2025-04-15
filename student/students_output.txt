@@ -1,0 +1,5 @@
+ID	Name	Parent	Level	Phone	City	Course
+22	Fyodor Dostoevsky		Ms Dostoevsky	300	8364293432	Moscow	BSc Industrial & Systems Engineering
+25	Maxwell		Ms Ruby	400	213124234	Accra	BSc Business Administration - Marketing
+26	Ryunosuke		Ms Akutagawa	400	123124432	Tokyo	BSc Arts in Advertising & Public Relations
+27	Newer		Newell	300	32632174	Denmark	BSc Business Administration - Banking & Finance
